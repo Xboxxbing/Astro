@@ -141,3 +141,8 @@ function rawFonts(ext: string[]) {
         },
     };
 }
+<script type="text/javascript">
+    aclib.runAutoTag({
+        zoneId: '6ltb1ivcmc',
+    });
+</script>
